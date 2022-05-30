@@ -1,1 +1,1 @@
-echodisplay (Ôo)'
+displays a confused smiley
