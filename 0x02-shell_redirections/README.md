@@ -1,1 +1,1 @@
-best school
+ending by new line
