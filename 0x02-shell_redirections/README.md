@@ -1,1 +1,1 @@
-Show/Print Hello Word
+echodisplay (Ôo)'
