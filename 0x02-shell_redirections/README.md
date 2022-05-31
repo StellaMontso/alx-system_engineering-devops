@@ -1,1 +1,1 @@
-ending by new line
+new line
